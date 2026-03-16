@@ -3,5 +3,5 @@
 ## Week 1 - Bioinformatic basic, bash and linux command lines
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
-## Week 4 - Genomic Data Visualization
+## Week 4 - Genomic Data Visualization with Tools and ggplot
 ## Week 5 - Report Preparation
