@@ -1,4 +1,4 @@
-# Invivo Lab Internship Genomic Microbe and chloroplast DNA
+# Invivo Lab Internship: Microbial Genomic and chloroplast DNA
 
 ## Week 1 - Bioinformatic basic, bash and linux command lines
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
