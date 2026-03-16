@@ -1,6 +1,7 @@
-# Invivo-internship_Microbiome_Plant chloroplast
+# Invivo Lab Internship Genomic Microbe and chloroplast DNA
 
-## Week 1 - Bioinformatic basic and bash script
-## Week 2 - Upstream process
-## Week 3 - Downstream process
-## Week 4 - Visualize data
+## Week 1 - Bioinformatic basic, bash and linux command lines
+## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
+## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
+## Week 4 - Genomic Data Visualization
+## Week 5 - Report Preparation
