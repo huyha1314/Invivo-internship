@@ -25,12 +25,13 @@
   +  [YouTube_1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
   +  [Github_2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf)
   +  [YouTube_2](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3)
-
+- [Exercises](https://github.com/huyha1314/Invivo-internship/blob/d46e8e70fc22b62a70bf9054b8d4fc10d88957a5/linux_homework.txt)
+  
 ### Day 4: 
 - Basic Bash script
   +  [Github](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/Introduction_to_bash_script%20_(1)_and_(2).pdf)
   +  [YouTube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
-
+- [Exercises](https://github.com/huyha1314/Invivo-internship/blob/d46e8e70fc22b62a70bf9054b8d4fc10d88957a5/Bashscript_homework)
 ### Day 5: 
 - Install tools and paper presentation
 
