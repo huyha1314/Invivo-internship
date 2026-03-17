@@ -19,6 +19,21 @@
   + Paper 3. Chloroplast genome [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12301069/)
   + Paper 4. Michondrial genome [link](https://www.nature.com/articles/s41598-025-29107-x?utm_source=facebook&utm_medium=organic_social&utm_content=null&utm_campaign=CONR_JRNLS_AWA1_GL_PCOM_SMEDA_SCIREP&linkId=37458602&fbclid=IwY2xjawPYQ-xleHRuA2FlbQIxMABicmlkETFmUDBYRGRqcEhGd3N0ajBvc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvz_a9CN-ySK2-nXmCYyOyGY6ECuysEYemLm2NWpV0cP0EUk4rWw-rncr2ro_aem_r_KJ3Hj7FviXQ1PiWB_mcA)
 
+### Day 3: 
+- Basic Linux command 
+  +  [Github_1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf)
+  +  [YouTube_1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
+  +  [Github_2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf)
+  +  [YouTube_2](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3)
+
+### Day 4: 
+- Basic Bash script
+  +  [Github](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/Introduction_to_bash_script%20_(1)_and_(2).pdf)
+  +  [YouTube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
+
+### Day 5: 
+- Install tools and paper presentation
+
 ###
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
