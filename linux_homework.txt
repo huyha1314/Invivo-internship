@@ -1,0 +1,67 @@
+ Classwork (1-Hour Guided Practice)
+Objective: Create a structured project workspace, add files, move them around, and practice cleaning up.
+
+Instructions: Open your terminal and complete the following tasks in order. Take your time to run ls after every few steps to visually confirm what you've done!
+
+Task 1: Setting the Stage
+
+Find out exactly where you are right now. (Hint: Use pwd)
+
+Go to your home directory to ensure you are starting from a clean slate. (Hint: Use cd)
+
+Create a new directory called linux_bootcamp.
+
+Navigate into your new linux_bootcamp directory.
+
+Task 2: Building the Structure (15 Minutes)
+
+Inside linux_bootcamp, create two new directories: class_notes and assignments.
+
+Verify both folders were created successfully.
+
+Navigate into the class_notes directory.
+
+Create an empty file called day1_commands.txt.
+
+Task 3: Creating and Moving Content
+Use the echo command to add the text "I am learning the command line!" into a new file called success.txt.
+
+Check the contents of success.txt to make sure your text is actually inside. (Hint: Use cat)
+
+Move success.txt out of class_notes and into the assignments directory.
+
+Navigate to the assignments directory to verify the file is there.
+
+Task 4: Backing up and Cleaning Up
+
+While inside the assignments directory, make a copy of success.txt and name the copy success_backup.txt.
+
+Rename the original success.txt to completed_task.txt.
+
+Navigate back up to the main linux_bootcamp directory.
+
+Delete the class_notes directory entirely.
+
+Homework Assignment
+Scenario: The Intergalactic File Organizer
+Your task is to organize a digital solar system using only the command line.
+
+Requirements:
+
+Create a main directory called universe.
+
+Inside universe, create a directory called milky_way.
+
+Inside milky_way, create a directory called solar_system.
+
+Inside solar_system, create three files: earth.txt, mars.txt, and pluto.txt.
+
+Use echo to write "Has water" into earth.txt.
+
+Use echo to write "Red planet" into mars.txt.
+
+Wait, Pluto isn't a major planet anymore! Delete pluto.txt.
+
+Scientists discovered a new galaxy. Create a directory called andromeda directly inside the main universe folder.
+
+Move mars.txt from the solar_system folder into the andromeda folder.
