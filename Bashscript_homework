@@ -1,0 +1,41 @@
+
+Exercise 1: The Interactive Greeter (15 Minutes)
+Goal: Create a script that asks for a user's first and last name separately, then greets them with their full name.
+
+Filename: greet.sh
+
+Requirements: Use echo to ask prompts, read to store two different variables, and output a final sentence combining both variables.
+
+Don't forget: chmod +x greet.sh
+
+Exercise 2: The Folder Generator (20 Minutes)
+Goal: Create a script that automatically generates three new folders in your current directory.
+
+Filename: make_folders.sh
+
+Requirements: Use a for loop that iterates through the words "ProjectA", "ProjectB", and "ProjectC". Inside the loop, use the mkdir command to create a directory for each word.
+
+Verification: Run the script, then type ls in your terminal to verify the folders were created.
+
+Exercise 3: The VIP Door (25 Minutes)
+Goal: Create a script that acts as a bouncer. It should ask for a password and only let the user in if they guess it correctly.
+
+Filename: bouncer.sh
+
+Requirements: Hardcode a variable with a secret password (e.g., SECRET="opensesame"). Ask the user to input a password. Use an if/else statement to compare their input to the secret. If it matches, print "Access Granted." If it fails, print "Access Denied."
+
+Hint: When comparing text strings in Bash if statements, use = instead of -eq (e.g., if [ "$INPUT" = "$SECRET" ]; then).
+
+🏠 Homework: The "System Snapshot" Script
+This assignment challenges you to combine what you've learned with a new concept: redirecting output into a file using the >> operator.
+
+The Assignment:
+Write a script called snapshot.sh. When executed, this script should not print anything to the screen. Instead, it should quietly write the following information into a text file called system_log.txt:
+
+A greeting that says "System snapshot taken by [Your Name]".
+
+The current date and time (you can generate this inside the script by running the date command).
+
+The path of the current directory (using the pwd command).
+
+A clue to get you started on redirection: If you want to save the output of an echo to a file instead of printing it to the screen, you do it like this: echo "Hello File" >> system_log.txt.
