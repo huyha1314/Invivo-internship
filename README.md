@@ -38,7 +38,7 @@
 - [YouTube_2](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
 - [YouTube_3](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
 - [YouTube_4](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB)
-
+- [Exercises](https://github.com/huyha1314/Invivo-internship/blob/cd002ba835000123c85bf4b3d39880b236a703a7/Homework_basic_Linux_commands_part2.pdf)
 ###
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
