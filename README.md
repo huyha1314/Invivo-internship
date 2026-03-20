@@ -30,10 +30,14 @@
 ### Day 4: 
 - Basic Bash script
   +  [Github](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/Introduction_to_bash_script%20_(1)_and_(2).pdf)
-  +  [YouTube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
+  +  [YouTube](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB)
 - [Exercises](https://github.com/huyha1314/Invivo-internship/blob/d46e8e70fc22b62a70bf9054b8d4fc10d88957a5/Bashscript_homework)
 ### Day 5: 
 - Install tools and paper presentation
+- [YouTube_1](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
+- [YouTube_2](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
+- [YouTube_3](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
+- [YouTube_4](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB)
 
 ###
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
