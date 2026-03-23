@@ -49,6 +49,11 @@
 +  [YouTube_part_1](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 +  [YouTube_part_2](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
 + [Exercises]()
+### Day 2:
+### Day 3: 
+### Day 4: 
+### Day 5: 
+
 
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
 ## Week 4 - Genomic Data Visualization with Tools and ggplot
