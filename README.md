@@ -37,12 +37,20 @@
 - Linux command 2
 - [YouTube_1](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
 - [YouTube_2](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
-- Blast
+- Blast and NCBI database 
 - [YouTube_3](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
 - [YouTube_4](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB)
 - [Exercises](https://github.com/huyha1314/Invivo-internship/blob/cd002ba835000123c85bf4b3d39880b236a703a7/Homework_basic_Linux_commands_part2.pdf)
 ###
 ## Week 2 - Upstream analysis of Bacterial Whole Genome Sequencing and R programming
+
+### Day 1:
+- WGS - whole genome sequencing introducing and upstream process
++  [YouTube_part_1](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
++  [YouTube_part_2](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
++  - [Exercises]()
+
+https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44&pp=iAQB
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
 ## Week 4 - Genomic Data Visualization with Tools and ggplot
 ## Week 5 - Report Preparation
