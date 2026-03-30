@@ -48,13 +48,24 @@
 - WGS - whole genome sequencing introducing and upstream process
 +  [YouTube_part_1](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 +  [YouTube_part_2](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
-+ [Exercises]()
-### Day 2:
-### Day 3: 
-### Day 4: 
-### Day 5: 
+### Day 2: fastqc, fastp introduce
+### Day 3: Conda env and install tools 
+### Day 4: WGS project workflow and tools 
+### Day 5: Weekly presentation, introducing to github - readme.md
 
 
 ## Week 3 - Downstream analysis of Bacterial Whole Genome Sequencing
+### Day 1: Create workflow pipeline for WGS project
+### Day 2: NCBI data and practice.
+### Day 3: Down data, install tools and practice with miniproject
+### Day 4: QC practice and interpret result 
+### Day 5: Denovo assembly practice and interpret result 
+
 ## Week 4 - Genomic Data Visualization with Tools and ggplot
+### Day 1: Annotate pracitce and interpret result 
+### Day 2: AMR gene detection, viruslence gene detection and interpret result 
+### Day 3: Visualize data 
+### Day 4: Literature review and do own project
+### Day 5: Self learning 
+
 ## Week 5 - Report Preparation
