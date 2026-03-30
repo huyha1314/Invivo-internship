@@ -48,8 +48,8 @@
 - WGS - whole genome sequencing introducing and upstream process
 +  [YouTube_part_1](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 +  [YouTube_part_2](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
-### Day 2: fastqc, fastp introduce
-### Day 3: Conda env and install tools 
+### Day 2: Upsteam tools with fastqc, fastp introduce
+### Day 3: Conda env and install tools, database 
 ### Day 4: WGS project workflow and tools 
 ### Day 5: Weekly presentation, introducing to github - readme.md
 
