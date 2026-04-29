@@ -69,3 +69,8 @@
 ### Day 5: Self learning 
 
 ## Week 5 - Report Preparation
+
+### Final Report
+[Team 1](WGS-team1.pdf)
+[Team 2](WGS-team2.pdf)
+
