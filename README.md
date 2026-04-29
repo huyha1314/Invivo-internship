@@ -71,6 +71,8 @@
 ## Week 5 - Report Preparation
 
 ### Final Report
-[Team 1](WGS-team1.pdf)
-[Team 2](WGS-team2.pdf)
+- WGS project for typing and characterize the Cutibacterium acnes from human skin and blood 
++ [Team 1](WGS-team1.pdf)
+- WGS project for typing and characterize the Fermented bacteria from yogurt and pickled veggie
++ [Team 2](WGS-team2.pdf)
 
